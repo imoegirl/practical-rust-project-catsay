@@ -1,0 +1,4 @@
+   Compiling catsay v0.1.0 (D:\Projects\Rust\catsay)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.17s
+     Running `target\debug\catsay.exe woof`
+A cat shouldn't bark like a dog.
